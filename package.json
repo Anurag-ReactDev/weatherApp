@@ -1,0 +1,28 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build" :"parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Ponnada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anurag-ReactDev/weatherApp/issues"
+  },
+  "homepage": "https://github.com/Anurag-ReactDev/weatherApp#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.77",
+    "@types/react-dom": "^18.2.25",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
