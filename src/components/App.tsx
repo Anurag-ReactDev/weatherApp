@@ -1,7 +1,7 @@
 const App = ()=>{
     return(
         <>
-            <h1>WeatherApp</h1>
+            <h1>WeatherApp deployed on vercel</h1>
         </>
     )
 }
